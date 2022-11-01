@@ -4,4 +4,4 @@ CAmbio en dev
 
 cambio solo a Bernardo2
 
-cambio en Dev
+cambio en Dev 2g
